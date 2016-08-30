@@ -1,5 +1,5 @@
 {
-  "name": "grunt-resxtojson",
+  "name": "grunt-bbiresxtojson",
   "description": "Convert resx files to JSON.",
   "version": "0.4.2",
   "homepage": "https://github.com/ericb81/grunt-resxtojson",
